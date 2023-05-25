@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
